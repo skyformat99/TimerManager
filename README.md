@@ -1,4 +1,5 @@
 # TimerManager
+Crossplatform library for simple working with timers
 # Example
 ```c++
 #include <iostream>
